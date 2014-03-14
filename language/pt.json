@@ -1,10 +1,10 @@
 {
   "quit": "Sair",
   "cancel": "Cancelar",
-  "beforeQuit": "Você tem certeza que deseja sair?",
+  "beforeQuit": "Tem a certeza que deseja sair?",
   "loading": "Por Favor Aguarde...",
-  "loadingVideo": "Bufferizando vídeo, por favor aguarde",
-  "searchLoading": "Procurando...",
+  "loadingVideo": "A bufferizar o vídeo, por favor aguarde",
+  "searchLoading": "A procurar...",
   "noResults": "Nenhum resultado encontrado.",
 
   "search": "Procurar",
@@ -12,23 +12,23 @@
 
   "subtitledIn": "Legendas em",
   "quality": "Qualidade",
-  "watchItNow": "Assistir Agora",
+  "watchItNow": "Ver Agora",
   "durationUnit": "min",
 
-  "connecting": "Conectando...",
-  "startingDownload": "Começando Download...",
-  "downloading": "Baixando...",
+  "connecting": "A conectar...",
+  "startingDownload": "A começar o download...",
+  "downloading": "A fazer o download...",
 
   "UpgradeVersion": "Atualizar Popcorn Time",
-  "UpgradeVersionDescription": " acaba de ser lançado. Atualize agora!",
+  "UpgradeVersionDescription": "Acabou de ser lançado. Atualize agora!",
   
-  "legalDisclaimer": "Popcorn Time baixa e compartilha arquivos usando torrents, isso pode não ser legal em seu país.",
+  "legalDisclaimer": "Popcorn Time descarrega e partilha arquivos usando torrents, isso pode não ser legal no seu país.",
   "legalDisclaimerResponsible": "Não nos responsabilizamos por eventuais problemas , então esteja ciente de nossos Termos e Condições antes de utilizar o app.",
   "legalDisclaimerAccept": "Entendo e quero usar o Popcorn Time",
   "legalDisclaimerCancel": "Sair do Popcorn Time",
   
   "genres": {
-    "all": "Popular",
+    "all": "Novidades",
     "action": "Ação",
     "adventure": "Aventura",
     "animation": "Animação",
